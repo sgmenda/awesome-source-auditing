@@ -1,6 +1,7 @@
 # Awesome Source Auditing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 🚧 Work in Progress 🚧
 
@@ -112,4 +113,4 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
